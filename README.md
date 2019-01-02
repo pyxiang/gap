@@ -12,7 +12,7 @@ A simple gap sequence annotation tool for sniffles SV result.
 > `<`vcf`>`         &nbsp;sniffles vcf file  
 > `<`outfile`>`     &nbsp;output filename including path  
 > `<`bp`>`          &nbsp;set the range of sequence  
-> `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer
+> `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer, including path
 
 ### Work Flow
 
