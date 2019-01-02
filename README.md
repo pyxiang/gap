@@ -22,10 +22,7 @@ A simple gap sequence annotation tool for sniffles SV result.
 3. Output the annotated result 
 
 
-
-
-
-##Reference Dataset  
+### Reference Dataset  
 dataset was downloaded form [http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/gap.txt.gz](http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/gap.txt.gz)
 
 
