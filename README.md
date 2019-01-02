@@ -1,4 +1,5 @@
 ## Gap Sequence Annotation Tool for Sniffles  
+#### Version 1
 A simple gap sequence annotation tool for sniffles SV result.
 ### Usage
 >python3 gap_anno.py `<`vcf`>` `<`outfile`>` `<`bp`>` `<`dataset`>`  
