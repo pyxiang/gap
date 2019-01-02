@@ -20,7 +20,7 @@ A simple gap sequence annotation tool for sniffles SV result.
 
 2. For translocation, if the range of one breakpoint of sniffles result is covered by dataset, the result will be annotated.For other svtype, if the range of one breakpoint of sniffles result is overlapped by dataset, the result will be annotated   
 
-3. Output the annotated result 
+3. Output the annotated result, including sv id and datasetid
 
 
 ### Reference Dataset  
