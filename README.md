@@ -9,7 +9,7 @@ A simple gap sequence annotation tool for sniffles SV result.
 >gap sequence annotation for sniffles vcf  
 
 >optional arguments:   
-> `<`vcf`>`         &nbsp;sniffles vcf file including path
+> `<`vcf`>`         &nbsp;sniffles vcf file including path  
 > `<`outfile`>`     &nbsp;output filename including path  
 > `<`bp`>`          &nbsp;set the range of sequence  
 > `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer, including path
